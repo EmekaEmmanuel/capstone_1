@@ -22,8 +22,8 @@ menuOption.forEach((e) => {
 const speakersData = [
   {
     id: 0,
-    name: "Yohai Benkler",
-    translatedName: "Yochai Benkler",
+    name: "Emeka Emmanuel",
+    translatedName: "Adaezee Onojaa",
     institution: "Harvard Law School Professor",
     description: "Focusing on a common approach in a networked environment, he created the concept of co-production based on sharing, such as open source software and Wikipedia.",
     image: "../img/speaker_01.png",
@@ -32,8 +32,8 @@ const speakersData = [
 
   {
     id: 1,
-    name: "Gilnam Jeon",
-    translatedName: "Kilnam Chon",
+    name: "Ekpez Naza",
+    translatedName: "Ekpere Naza",
     institution: "Korea Advanced Institute of Science and Technology (KAIST) Emeritus Professor",
     description: "It opened the Internet era in earnest by developing Asia's first internet protocol network SDN and leading the nation's first dedicated line",
     image: "../img/speaker_02.png",
@@ -42,8 +42,8 @@ const speakersData = [
 
   {
     id: 2,
-    name: "Soyoung Noh",
-    translatedName: "Sohyeong Noh",
+    name: " Adaeze Onoja",
+    translatedName: "Emekaz Emma",
     institution: "Art Center Nabi Director, CC Korea Director",
     description: "As the author of <Digital Art, Art of Our Time>, he opened 'Art Center Nabi', the first digital art institution in Korea in 2000, and is currently in office.",
     image: "../img/speaker_03.png",
@@ -52,8 +52,8 @@ const speakersData = [
 
   {
     id: 3,
-    name: "Julia Leda",
-    translatedName: "Julia Reda",
+    name: "Kamsi Austin",
+    translatedName: "Kams Austin",
     institution: "Representative of the Young Pirates of Europe",
     description: "European integration and young people's participation in politics and democracy online are major concerns, and he has published a report that will potentially.",
     image: "../img/speaker_04.png",
@@ -62,8 +62,8 @@ const speakersData = [
 
   {
     id: 4,
-    name: "Lyla Treticov",
-    translatedName: "Lila Tretikov",
+    name: "Kosi Aruom",
+    translatedName: "Kosi Aruo",
     institution: "Secretary General of the Wikimedia Foundation",
     description: "Layla Treticov is the Executive Director of the Wikimedia Foundation, the non-profit organization that runs Wikipedia. Wikipedia is provided free of charge in 290.",
     image: "../img/speaker_05.png",
@@ -72,8 +72,8 @@ const speakersData = [
 
   {
     id: 5,
-    name: "Ryan Merkly",
-    translatedName: "Ryan Merkly",
+    name: "Peter Klaver",
+    translatedName: "Peter Klaver",
     institution: " Creative Commons CEO, former Mozilla Foundation COO",
     description: "He led the open source project at the Mozilla Foundation and joined the CC CEO in 2014. He has been active in open movements such as open government and open source.",
     image: "../img/speaker_06.png",
