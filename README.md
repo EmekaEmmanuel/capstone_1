@@ -1,72 +1,75 @@
-# res_portfolio
-Basic portfolio website
-
+# Capstone_1-
 <a name="readme-top"></a>
 
-<div align="center">
 
-  <img src="./img/murple_logo.png" alt="microverse_logo" width="140"  height="auto" />
-  <br/>
-
-  <h3><b>Microverse README Template</b></h3>
-
-</div>
+<!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
-- [res\_portfolio](#res_portfolio)
-- [📗 Table of Contents](#-table-of-contents)
-- [📖 \[Portfolio Setup\] ](#-portfolio-setup-)
-  - [🛠 Built With ](#-built-with-)
-    - [Tech Stack ](#tech-stack-)
-  - [🚀 Live Demo https://emekaemmanuel.github.io/res\_portfolio/](#-live-demo-httpsemekaemmanuelgithubiores_portfolio)
-  - [💻 Getting Started ](#-getting-started-)
-    - [Prerequisites](#prerequisites)
-    - [Setup](#setup)
-    - [Install](#install)
-    - [Usage](#usage)
-    - [Run tests](#run-tests)
-    - [Deployment](#deployment)
-  - [👥 Authors ](#-authors-)
-  - [🔭 Future Features ](#-future-features-)
-  - [🤝 Contributing ](#-contributing-)
-  - [⭐️ Show your support ](#️-show-your-support-)
-  - [🙏 Acknowledgments ](#-acknowledgments-)
-  - [❓ FAQ .](#-faq-)
-  - [📝 License ](#-license-)
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+- [Live Demo](#live-demo)
+- [Project Presentation](#project-presentation)  
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [📝 License](#license)
 
-# 📖 [Portfolio Setup] <a name="about-project"></a>
+<!-- PROJECT DESCRIPTION -->
 
-**[Portfolio Setup]** is a simple portfolio website with these sections contained in this project;
-- Toolbar
-- Headline section (right after the header).
-- Works
-- About myself
-- Contact me
-The layout was done using css flexbox and css grid, button interactions implemented.
-Use media queries to make sure that website displays correctly on desktop screens. (Desktop: 768px or wider).
-- Implement the mobile menu using basic javascript.
-- Implement popups for both mobile and desktop screen sizes.
+# 📖 [Capstone 1] <a name="about-project"></a>
+
+This is a project which highlights the annual Dutsen Marian Hill pilgimage scheduled to take place this year, and it was built using HTML, CSS, and JavaScript.
+
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
+
+
 <details>
   <summary>Client</summary>
   <ul>
-    <li><a href="#">HTML CSS AND JAVASCRIPT</a></li>
+    <li><a href="#">HTML</a></li>
+    <li><a href="#">CSS</a></li>
+    <li><a href="#">JavaScript</a></li>
   </ul>
 </details>
 
-## 🚀 Live Demo <a name="live-demo">https://emekaemmanuel.github.io/res_portfolio/</a>
+<!-- live demo -->
+## Live Demo <a name="live-demo"></a>
+
+- [Live Demo Link](https://emekaemmanuel.github.io/capstone_1/)
+<!-- Project Presentation -->
+## Project Presentation <a name="project-presentation"></a>
+
+- [Project Presentation video link](https://www.loom.com/share/398ba145238944b492cf715eae2d0545)
+<!-- Features -->
+
+### Key Features <a name="key-features"></a>
+
+- **[Tells you about me.]**
+- **[To display my past work experiences.]**
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p> 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 💻 Getting Started <a name="getting-started"></a>  
 
-### Prerequisites
+
+<!-- GETTING STARTED -->
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+> To get a local copy up and running, follow these steps.
+
+## Prerequisites
 - A text editor (preferably Visual Studio Code)
 - Github
 
@@ -75,7 +78,7 @@ Use media queries to make sure that website displays correctly on desktop screen
 Clone this repository to your desired folder:
 
   cd my-folder
-  git clone https://github.com/EmekaEmmanuel/res_portfolio.git
+  git clone https://github.com/EmekaEmmanuel/capstone_1.git
 
 ### Install
   -  [Git](https://git-scm.com/downloads)
@@ -96,34 +99,35 @@ Clone this repository to your desired folder:
 - GitHub: [@emekaemmanuel](https://github.com/emekaemmanuel)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/emeka-ugboaja-167820226)
 
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- FUTURE FEATURES -->
+
 ## 🔭 Future Features <a name="future-features"></a>
+
+
+- [ ] **[Create a complete website with navigation.]**
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- CONTRIBUTING -->
 
 ## 🤝 Contributing <a name="contributing"></a>
 
 Contributions, issues, and feature requests are welcome!
-🤝
 
-> 👤 **Ahmed Hasan Rony**
-> - GitHub: [@roniy68](https://www.github.com/roniy68)
->- LinkedIn: [LinkedIn](https://linkedin.com/in/ahroniy)
-
-> 👤 **Marko Kermichiev**
-> - GitHub: [@Markokermi](https://github.com/MarkoKermi)
->- LinkedIn: [LinkedIn](https://www.linkedin.com/in/marko-kermichiev-78b1bb110/
-
-> 👤 **Bader Basem Simon**
-> - GitHub: [@Markokermi](https://github.com/BB-Simon) 
-)
-
-Feel free to check the [issues page](../../issues/https://github.com/EmekaEmmanuel/res_portfolio/issues).
+Feel free to check the [issues page](../../issues/https://github.com/EmekaEmmanuel/capstone_1/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- SUPPORT -->
+
 ## ⭐️ Show your support <a name="support"></a>
 
-Give a ⭐️ if you like this project!
+Give a ⭐️ if you like this project! 
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
