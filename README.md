@@ -1,9 +1,6 @@
 # Capstone_1-
 <a name="readme-top"></a>
 
-
-<!-- TABLE OF CONTENTS -->
-
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -21,8 +18,6 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
-
 # 📖 [Capstone 1] <a name="about-project"></a>
 
 This is a project which highlights the annual Dutsen Marian Hill pilgimage scheduled to take place this year, and it was built using HTML, CSS, and JavaScript.
@@ -31,8 +26,6 @@ This is a project which highlights the annual Dutsen Marian Hill pilgimage sched
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-
 
 <details>
   <summary>Client</summary>
@@ -43,15 +36,13 @@ This is a project which highlights the annual Dutsen Marian Hill pilgimage sched
   </ul>
 </details>
 
-<!-- live demo -->
 ## Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://emekaemmanuel.github.io/capstone_1/)
-<!-- Project Presentation -->
+- [Live Demo Link](https://emekaemmanuel.github.io/capstone_1/) 
+
 ## Project Presentation <a name="project-presentation"></a>
 
-- [Project Presentation video link](https://www.loom.com/share/398ba145238944b492cf715eae2d0545)
-<!-- Features -->
+- [Project Presentation video link](https://www.loom.com/share/398ba145238944b492cf715eae2d0545) 
 
 ### Key Features <a name="key-features"></a>
 
@@ -61,9 +52,6 @@ This is a project which highlights the annual Dutsen Marian Hill pilgimage sched
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
-<!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
@@ -100,9 +88,7 @@ Clone this repository to your desired folder:
 - LinkedIn: [LinkedIn](https://linkedin.com/in/emeka-ugboaja-167820226)
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- FUTURE FEATURES -->
+<p align="right">(<a href="#readme-top">back to top</a>)</p> 
 
 ## 🔭 Future Features <a name="future-features"></a>
 
@@ -110,9 +96,7 @@ Clone this repository to your desired folder:
 - [ ] **[Create a complete website with navigation.]**
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- CONTRIBUTING -->
+<p align="right">(<a href="#readme-top">back to top</a>)</p> 
 
 ## 🤝 Contributing <a name="contributing"></a>
 
@@ -120,9 +104,7 @@ Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/https://github.com/EmekaEmmanuel/capstone_1/issues).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- SUPPORT -->
+<p align="right">(<a href="#readme-top">back to top</a>)</p> 
 
 ## ⭐️ Show your support <a name="support"></a>
 
