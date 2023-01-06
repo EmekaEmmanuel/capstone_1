@@ -85,7 +85,7 @@ Clone this repository to your desired folder:
 👤 **Emeka Emmanuel**
 
 - GitHub: [@emekaemmanuel](https://github.com/emekaemmanuel)
-- LinkedIn: [Emeka Ugboaja](https://linkedin.com/in/emeka-ugboaja-167820226)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/emeka-ugboaja-167820226)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p> 

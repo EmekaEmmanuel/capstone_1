@@ -24,7 +24,7 @@ const speakersData = [
     name: 'Emeka Emmanuel',
     translatedName: 'Emekaz Emma',
     institution: 'Harvard Law School Professor',
-    description: 'Focusing on a common approach in a networked environment, he created the concept of co-production based on sharing, such as open source software and Wikipedia.',
+    description: 'Focusing on a common approach in a networked environment, he created the concept of co-production based on sharing, such as open source software and Marianepedia.',
     image: '../img/speaker_01.png',
     source: '(Main publications: Wealth of Networks Penguin and Levidon)',
   },
