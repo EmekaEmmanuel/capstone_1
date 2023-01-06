@@ -114,6 +114,7 @@ Give a ⭐️ if you like this project!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a> 
+Thank you Cindy Shin for the Awesome Design Template.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
