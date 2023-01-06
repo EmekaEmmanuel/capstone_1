@@ -42,7 +42,7 @@ This is a project which highlights the annual Dutsen Marian Hill pilgimage sched
 
 ## Project Presentation <a name="project-presentation"></a>
 
-- [Project Presentation video link](https://www.loom.com/share/398ba145238944b492cf715eae2d0545) 
+- [Project Presentation video link](https://www.loom.com/share/f1fe064892d2440194275e3733cf01f0) 
 
 ### Key Features <a name="key-features"></a>
 
@@ -114,6 +114,7 @@ Give a ⭐️ if you like this project!
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a> 
+Thank you Cindy Shin for the Awesome Design Template.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
