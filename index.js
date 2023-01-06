@@ -25,7 +25,7 @@ const speakersData = [
     translatedName: 'Emekaz Emma',
     institution: 'Harvard Law School Professor',
     description: 'Focusing on a common approach in a networked environment, he created the concept of co-production based on sharing, such as open source software and Marianepedia.',
-    image: '../img/speaker_01.png',
+    image: './speaker_01.png',
     source: '(Main publications: Wealth of Networks Penguin and Levidon)',
   },
 
@@ -35,7 +35,7 @@ const speakersData = [
     translatedName: 'Ekpere Naza',
     institution: 'Korea Advanced Institute of Science and Technology (KAIST) Emeritus Professor',
     description: "It opened the Internet era in earnest by developing Asia's first internet protocol network SDN.",
-    image: '../img/speaker_02.png',
+    image: './speaker_02.png',
     source: 'Internet connection in 1990.',
   },
 
@@ -45,7 +45,7 @@ const speakersData = [
     translatedName: 'Adaezee Onojaa',
     institution: 'Art Center Nabi Director, MP Korea Director',
     description: "As the author of <Digital Art, Art of Our Time>, he opened 'Art Center Nabi', the first digital art institution in Korea in 2000, and is currently in office.",
-    image: '../img/speaker_03.png',
+    image: './speaker_03.png',
     source: '',
   },
 
@@ -55,7 +55,7 @@ const speakersData = [
     translatedName: 'Kams Austin',
     institution: 'Representative of the Young Peoples of Europe',
     description: "European integration and young people's participation in politics and democracy online are major concerns.",
-    image: '../img/speaker_04.png',
+    image: './speaker_04.png',
     source: '',
   },
 
@@ -65,7 +65,7 @@ const speakersData = [
     translatedName: 'Kosi Aruo',
     institution: 'Secretary General of the Marianemedia Foundation',
     description: 'Layla Treticov is the Executive Director of the Marianemedia Foundation, a non-profit organization that runs Marianepedia.',
-    image: '../img/speaker_05.png',
+    image: './speaker_05.png',
     source: '',
   },
 
@@ -75,7 +75,7 @@ const speakersData = [
     translatedName: 'Peter Klaver',
     institution: ' Mariane Hikes CEO, former Mariane Foundation COO',
     description: 'He led the open source project at the Mariane Foundation and joined the MP CEO in 2014.',
-    image: '../img/speaker_06.png',
+    image: './speaker_06.png',
     source: '',
   },
 ];
