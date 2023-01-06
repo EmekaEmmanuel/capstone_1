@@ -41,7 +41,7 @@
 
 .textdecoration_none {
   text-decoration: none;
-} 
+}
 
 .modal_menu_container {
   width: 95%;
@@ -133,7 +133,7 @@
   font-size: 12.5px;
   font-weight: 400;
   color: #334266;
-  border: 2px solid #ffffff;
+  border: 2px solid #fff;
   letter-spacing: 0.8px;
   background-color: #f7f7f8;
 }
@@ -186,7 +186,7 @@
 }
 
 .program_section h3 {
-  color: #ffffff;
+  color: #fff;
   font-size: 18px;
   font-weight: 400;
 }
@@ -265,7 +265,7 @@
 }
 
 .view_full {
-  color: #ffffff;
+  color: #fff;
   font-size: 12px;
   font-weight: 400;
   text-decoration: none;
@@ -521,7 +521,7 @@
 
 .pastsummit_article figure {
   text-align: center;
-
+  position: relative;
 }
 
 .pastsummit_article figure img {
@@ -530,14 +530,10 @@
   object-fit: cover;
 }
 
-.pastsummit_article figure {
-  position: relative;
-}
-
 .pastsummit_article h2 {
   position: absolute;
   margin: -35% 39%;
-  color: #ffffff;
+  color: #fff;
 }
 
 @media only screen and (min-width: 425px) {
@@ -658,7 +654,7 @@
   .pastsummit_article figure {
     position: relative;
   }
-  
+
   .pastsummit_article h2 {
     position: absolute;
     margin: -31% 39%;
@@ -888,15 +884,12 @@
 
   .pastsummit_article figure {
     text-align: center;
+    position: relative;
   }
 
   .pastsummit_article figure img {
     width: 700px;
     height: 408px;
-  }
-
-  .pastsummit_article figure {
-    position: relative;
   }
 
   .pastsummit_article h2 {
@@ -1487,7 +1480,6 @@
 
   .pastsummit_article figure {
     text-align: center;
-
   }
 
   .pastsummit_article figure img {
