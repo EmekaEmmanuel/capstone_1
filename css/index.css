@@ -41,17 +41,7 @@
 
 .textdecoration_none {
   text-decoration: none;
-}
-
-/* .mobile-dropdown {
-    -webkit-animation: slidein 2s 1;
-    animation: slidein 2s 1;
-    width: 90%;
-    background-color: rgb(39, 42, 50) !important;
-    opacity: 0.95;
-    height: 100vh;
-    position: fixed;
-  } */
+} 
 
 .modal_menu_container {
   width: 95%;
@@ -143,7 +133,7 @@
   font-size: 12.5px;
   font-weight: 400;
   color: #334266;
-  border: 2px solid #fff;
+  border: 2px solid #ffffff;
   letter-spacing: 0.8px;
   background-color: #f7f7f8;
 }
@@ -196,7 +186,7 @@
 }
 
 .program_section h3 {
-  color: #fff;
+  color: #ffffff;
   font-size: 18px;
   font-weight: 400;
 }
@@ -275,9 +265,10 @@
 }
 
 .view_full {
-  color: #fff;
+  color: #ffffff;
   font-size: 12px;
   font-weight: 400;
+  text-decoration: none;
 }
 
 .speaker_section {
@@ -530,12 +521,23 @@
 
 .pastsummit_article figure {
   text-align: center;
+
 }
 
 .pastsummit_article figure img {
   width: 331px;
   height: 183px;
   object-fit: cover;
+}
+
+.pastsummit_article figure {
+  position: relative;
+}
+
+.pastsummit_article h2 {
+  position: absolute;
+  margin: -35% 39%;
+  color: #ffffff;
 }
 
 @media only screen and (min-width: 425px) {
@@ -651,6 +653,15 @@
     width: 98%;
     margin: auto;
     padding: 10px 0 20px 0;
+  }
+
+  .pastsummit_article figure {
+    position: relative;
+  }
+  
+  .pastsummit_article h2 {
+    position: absolute;
+    margin: -31% 39%;
   }
 }
 
@@ -882,6 +893,15 @@
   .pastsummit_article figure img {
     width: 700px;
     height: 408px;
+  }
+
+  .pastsummit_article figure {
+    position: relative;
+  }
+
+  .pastsummit_article h2 {
+    position: absolute;
+    margin: -32% 39%;
   }
 }
 
@@ -1296,6 +1316,15 @@
     height: 262px;
   }
 
+  .pastsummit_article figure {
+    position: relative;
+  }
+
+  .pastsummit_article h2 {
+    position: absolute;
+    margin: -30% 39%;
+  }
+
   .hide_h2 {
     display: none;
   }
@@ -1458,6 +1487,7 @@
 
   .pastsummit_article figure {
     text-align: center;
+
   }
 
   .pastsummit_article figure img {
